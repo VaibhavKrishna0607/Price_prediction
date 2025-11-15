@@ -403,28 +403,7 @@ curl -X POST http://localhost:5000/predict \
 - Use smaller instance types for testing
 - Clean up unused training jobs and models
 
-## 🤝 Contributing
 
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Submit a pull request
 
-## 📝 License
 
-This project is licensed under the MIT License.
-
-## 👨‍💻 Developer
-
-Created with ❤️ for predicting smartphone prices using Machine Learning
-
-## 🙏 Acknowledgments
-
-- AWS SageMaker documentation
-- Scikit-learn library
-- Flask Framework
-
----
-
-**Need Help?** Check the [AWS SageMaker Documentation](https://docs.aws.amazon.com/sagemaker/) or open an issue.
 
